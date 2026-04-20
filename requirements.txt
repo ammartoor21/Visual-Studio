@@ -1,0 +1,4 @@
+streamlit
+groq
+python-dotenv
+# add any other libraries you imported at the top of your script
