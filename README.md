@@ -1,0 +1,4 @@
+This code creates a web-based AI chatbot application called "Mise AI" using the Streamlit framework and the Groq API.
+It initializes an AI assistant with the persona of a Michelin-starred Executive Chef, specifically instructing the underlying Llama 3.1 model to provide professional culinary advice while strictly refusing to answer non-food-related questions.
+The script builds out the complete user interface, injecting custom CSS to create a visually appealing chat environment with stylized conversation bubbles.
+It also features a sidebar that allows users to adjust the AI's creativity level and response length, continuously manages the chat history so the AI retains the context of the conversation, and processes real-time user inputs to fetch and smoothly display the chef's culinary responses.
